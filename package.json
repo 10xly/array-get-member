@@ -1,0 +1,53 @@
+{
+  "name": "array-get-member",
+  "version": "1.0.2",
+  "description": "Get member of array, no silent undefined values.",
+  "keywords": [
+    "get-member",
+    "joke"
+  ],
+  "homepage": "https://github.com/enterprise-npm-ai/array-get-member#readme",
+  "bugs": {
+    "url": "https://github.com/enterprise-npm-ai/array-get-member/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enterprise-npm-ai/array-get-member.git"
+  },
+  "license": "MIT",
+  "author": "tj-commits",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@positive-numbers/fifty": "^3.0.0",
+    "@stdlib/boolean-ctor": "^0.2.2",
+    "as-array": "^2.0.0",
+    "cli-color": "^2.0.4",
+    "const": "^1.0.0",
+    "construct-new": "^2.0.4",
+    "discord-webhook-node": "^1.1.8",
+    "es-constants": "^1.0.1",
+    "exit": "^0.1.2",
+    "false-value": "^2.0.6",
+    "if": "^2.0.0",
+    "immediate-error": "^9.0.1",
+    "is-actual-number": "^1.0.2",
+    "is-array": "^1.0.1",
+    "is-undefined": "^1.0.11",
+    "left-pad": "^1.3.0",
+    "literally": "^1.0.0",
+    "logtoconsole": "^1.0.7",
+    "lua-interpreter": "^0.0.3",
+    "luaparse": "^0.3.1",
+    "max-safe-integer": "^1.0.1",
+    "none": "^1.0.0",
+    "not": "^0.1.0",
+    "number-in-range": "^1.0.5",
+    "the-number-one": "^1.0.1",
+    "vanilla-javascript": "^1.1.1",
+    "vapor-js-npm": "^1.4.6"
+  }
+}
